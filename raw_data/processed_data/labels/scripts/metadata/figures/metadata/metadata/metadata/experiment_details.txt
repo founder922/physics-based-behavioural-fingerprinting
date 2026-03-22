@@ -1,1 +1,9 @@
-
+Machine: Single-phase electric motor
+Environment: Controlled laboratory
+Runs: 5
+Duration per run: ~10 minutes
+States: Active, Idle
+Signals: Vibration, Power
+Model: Random Forest
+Train/Test Split: 70/30
+Cross-validation: 5-fold
