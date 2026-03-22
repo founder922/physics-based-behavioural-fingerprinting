@@ -1,1 +1,8 @@
-
+{
+  "accelerometer": "MEMS triaxial accelerometer (ADXL335 class)",
+  "vibration_sampling_rate_hz": 1000,
+  "power_sensor": "Hall-effect current clamp (0–20 A)",
+  "power_sampling_rate_hz": 100,
+  "window_duration_seconds": 1,
+  "window_overlap_percent": 50
+}
