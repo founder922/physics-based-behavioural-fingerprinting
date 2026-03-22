@@ -1,1 +1,5 @@
-
+segment_id,label
+1,active
+2,idle
+3,active
+4,idle
