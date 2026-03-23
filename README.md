@@ -3,7 +3,7 @@
 Dataset and software framework for industrial uptime verification using physics-based behavioural fingerprinting.
 
 ## Overview
-This repository contains representative raw sensor excerpts, processed feature datasets, labels, metadata, and baseline scripts supporting the study:
+This repository contains representative raw sensor excerpts, processed feature datasets, labels, metadata, and baseline scripts supporting the study of Dr Reji Kurien Thomas:
 **A Cyber-Physical Software Architecture for Physics-Based Behavioural Fingerprinting in Industrial Uptime Verification**
 
 ## Repository Structure
